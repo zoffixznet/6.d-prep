@@ -1,0 +1,4 @@
+[v6.d REVIEW] DSETEM in
+
+DSETEM = "Do Not Spec Exact Text of Error Messages". These proved
+of little value and were interfering with readability changes

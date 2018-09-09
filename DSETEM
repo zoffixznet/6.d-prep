@@ -1,0 +1,7 @@
+[v6.d REVIEW] DSETEM in
+
+DSETEM = "Do Not Spec Exact Text of Error Messages". These proved
+of little value and were interfering with readability changes
+in 6.c. Keep these in Rakudo's tests for now. If other impls need
+it, we can always do an Appendix set of tests to the spec that impls
+can optionally follow.
